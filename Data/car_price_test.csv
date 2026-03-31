@@ -1,0 +1,20 @@
+FALSE,price,vehicleType,car_age,gearbox,powerPS,model,kilometer,fuelType,brand,notRepairedDamage
+1,,coupe,2,manual,261,unknown,90000,electric,audi,yes
+2,,suv,6,automatic,238,grand,150000,diesel,jeep,unknown
+3,,small car,2,manual,186,golf,60000,petrol,volkswagen,no
+4,,small car,5,manual,92,fabia,20000,diesel,skoda,no
+5,,convertible,7,manual,165,2_reihe,70000,petrol,peugeot,no
+6,,bus/van,3,manual,202,c_max,30000,electric,ford,unknown
+7,,sedan,11,manual,257,3_reihe,100000,petrol,mazda,no
+8,,station wagon,5,manual,125,passat,50000,diesel,volkswagen,yes
+9,,station wagon,10,manual,95,passat,90000,other,volkswagen,no
+10,,suv,4,manual,78,navara,40000,diesel,nissan,no
+11,,small car,15,automatic,268,twingo,125000,petrol,renault,no
+12,,bus/van,2,manual,182,c_max,50000,diesel,ford,no
+13,,bus/van,1,manual,64,a_klasse,10000,petrol,mercedes_benz,no
+14,,coupe,2,manual,154,scirocco,20000,electric,volkswagen,no
+15,,sedan,3,automatic,158,5er,20000,petrol,bmw,no
+16,,station wagon,4,automatic,260,5er,60000,diesel,bmw,yes
+17,,sedan,5,manual,183,civic,30000,petrol,honda,no
+18,,sedan,6,automatic,216,e_klasse,10000,diesel,mercedes_benz,no
+19,,sedan,1,automatic,221,3er,20000,petrol,bmw,no
